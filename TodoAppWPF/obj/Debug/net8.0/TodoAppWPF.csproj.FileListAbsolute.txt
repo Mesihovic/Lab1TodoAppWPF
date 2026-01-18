@@ -1,0 +1,15 @@
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/bin/Debug/net8.0/TodoAppWPF
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/bin/Debug/net8.0/TodoAppWPF.deps.json
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/bin/Debug/net8.0/TodoAppWPF.runtimeconfig.json
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/bin/Debug/net8.0/TodoAppWPF.dll
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/bin/Debug/net8.0/TodoAppWPF.pdb
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/TodoAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/TodoAppWPF.AssemblyInfoInputs.cache
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/TodoAppWPF.AssemblyInfo.cs
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/TodoAppWPF.csproj.CoreCompileInputs.cache
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/TodoAppWPF.sourcelink.json
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/TodoAppWPF.dll
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/refint/TodoAppWPF.dll
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/TodoAppWPF.pdb
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/TodoAppWPF.genruntimeconfig.cache
+/Users/mersihamesihovic/Desktop/TodoAppWPF/TodoAppWPF/obj/Debug/net8.0/ref/TodoAppWPF.dll
